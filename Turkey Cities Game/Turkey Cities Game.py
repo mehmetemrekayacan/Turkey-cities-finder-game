@@ -1,7 +1,6 @@
 import turtle
 import pandas
 
-
 cities= {"İller": [
         "adana", "adıyaman", "afyonkarahisar", "ağrı", "amasya", "ankara", "antalya", "artvin", "aydın", 
         "balıkesir", "bilecik", "bingöl", "bitlis", "bolu", "burdur", "bursa", "çanakkale", "çankırı", "çorum",
